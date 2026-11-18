@@ -1,0 +1,18 @@
+{
+  "shuttleTypes": [
+    {
+      "type": "RESCUE_SHIP",
+      "capacity": 50,
+      "amount": 5,
+      "cost": 150000,
+      "unlimited": false
+    },
+    {
+      "type": "STANDARD_SHUTTLE",
+      "capacity": 20,
+      "amount": -1,
+      "cost": 50000,
+      "unlimited": true
+    }
+  ]
+}
